@@ -1,7 +1,7 @@
 {
   "name": "airbnb-api",
   "version": "1.0.0",
-  "description": "API for airbnb clone app",
+  "description": "API for airbnb clone",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
